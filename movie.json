@@ -1,0 +1,105 @@
+[{
+        "name": "Dawn of the Planet of the Apes",
+        "image": "https://api.androidhive.info/json/movies/1.jpg",
+        "rating": 8.3,
+        "workingHours": 2014,
+        "address": ["Action", "Drama", "Sci-Fi"]
+    },
+    {
+        "name": "District 9",
+        "image": "https://api.androidhive.info/json/movies/2.jpg",
+        "rating": 8,
+        "workingHours": 2009,
+        "address": ["Action", "Sci-Fi", "Thriller"]
+    },
+    {
+        "name": "Transformers: Age of Extinction",
+        "image": "https://api.androidhive.info/json/movies/3.jpg",
+        "rating": 6.3,
+        "workingHours": 2014,
+        "address": ["Action", "Adventure", "Sci-Fi"]
+    },
+    {
+        "name": "X-Men: Days of Future Past",
+        "image": "https://api.androidhive.info/json/movies/4.jpg",
+        "rating": 8.4,
+        "workingHours": 2014,
+        "address": ["Action", "Sci-Fi", "Thriller"]
+    },
+    {
+        "name": "The Machinist",
+        "image": "https://api.androidhive.info/json/movies/5.jpg",
+        "rating": 7.8,
+        "workingHours": 2004,
+        "address": ["Drama", "Thriller"]
+    },
+    {
+        "name": "The Last Samurai",
+        "image": "https://api.androidhive.info/json/movies/6.jpg",
+        "rating": 7.7,
+        "workingHours": 2003,
+        "address": ["Action", "Drama", "History"]
+    },
+    {
+        "name": "The Amazing Spider-Man 2",
+        "image": "https://api.androidhive.info/json/movies/7.jpg",
+        "rating": 7.3,
+        "workingHours": 2014,
+        "address": ["Action", "Adventure", "Fantasy"]
+    },
+    {
+        "name": "Tangled",
+        "image": "https://api.androidhive.info/json/movies/8.jpg",
+        "rating": 7.9,
+        "workingHours": 2010,
+        "address": ["Action", "Drama", "Sci-Fi"]
+    },
+    {
+        "name": "Rush",
+        "image": "https://api.androidhive.info/json/movies/9.jpg",
+        "rating": 8.3,
+        "workingHours": 2013,
+        "address": ["Animation", "Comedy", "Family"]
+    },
+    {
+        "name": "Drag Me to Hell",
+        "image": "https://api.androidhive.info/json/movies/10.jpg",
+        "rating": 6.7,
+        "workingHours": 2009,
+        "address": ["Horror", "Thriller"]
+    },
+    {
+        "name": "Despicable Me 2",
+        "image": "https://api.androidhive.info/json/movies/11.jpg",
+        "rating": 7.6,
+        "workingHours": 2013,
+        "address": ["Animation", "Comedy", "Family"]
+    },
+    {
+        "name": "Kill Bill: Vol. 1",
+        "image": "https://api.androidhive.info/json/movies/12.jpg",
+        "rating": 8.2,
+        "workingHours": 2003,
+        "address": ["Action", "Crime"]
+    },
+    {
+        "name": "A Bug's Life",
+        "image": "https://api.androidhive.info/json/movies/13.jpg",
+        "rating": 7.2,
+        "workingHours": 1998,
+        "address": ["Animation", "Adventure", "Comedy"]
+    },
+    {
+        "name": "Life of Brian",
+        "image": "https://api.androidhive.info/json/movies/14.jpg",
+        "rating": 8.9,
+        "workingHours": 1972,
+        "address": ["Comedy"]
+    },
+    {
+        "name": "How to Train Your Dragon",
+        "image": "https://api.androidhive.info/json/movies/15.jpg",
+        "rating": 8.2,
+        "workingHours": 2010,
+        "address": ["Animation", "Adventure", "Family"]
+    }]
